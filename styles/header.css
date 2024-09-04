@@ -55,7 +55,9 @@
     text-transform: uppercase;
   }
   
-
+  .lista-menu {
+    display: none;
+  }
   
 
     
